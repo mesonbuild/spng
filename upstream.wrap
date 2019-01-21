@@ -1,0 +1,6 @@
+[wrap-file]
+directory = libspng-0.4.2
+
+source_url = https://libspng.org/libspng-0.4.2.zip
+source_filename = libspng-0.4.2.zip
+source_hash = 7786a5d5b35bc871527c866c9a07f54d475261b32e876c7d264805a9e768c1fe
