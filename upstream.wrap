@@ -1,0 +1,6 @@
+[wrap-file]
+directory = libspng-0.4.5
+
+source_url = https://gitlab.com/randy408/libspng/uploads/ffe0a3ec6ab1e73d8ae738c41e00d732/libspng-0.4.5.zip
+source_filename = libspng-0.4.5.zip
+source_hash = 8d690fb42749f808bc183463607bc176130e7f303f6a6426ff66bace5bfcaabe
